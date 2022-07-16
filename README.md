@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://img3.wallspic.com/previews/2/5/8/8/3/138852/138852-web_development-web_design-animation-illustration-world_wide_web-x750.jpg" width="1000" height="305">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif" width="1000" height="300">
 <h1 align="center">Hi 👋, I'm Victor Massini</h1>
 <h3 align="center">A student full-stack developer from Brazil 🇧🇷</h3>
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76111757f567c9bf84d9e0eb6e692c7c8b2b7d3ae11e&rid=giphy.gif&ct=g" alt="Coding">
